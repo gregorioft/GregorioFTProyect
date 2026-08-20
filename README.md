@@ -1,2 +1,0 @@
-# GregorioFTProyect
-Creacion de proyectos
